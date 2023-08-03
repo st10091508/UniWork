@@ -1,0 +1,8 @@
+C:\Users\xavie\Documents\ProgCode\Semester 2\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.AssemblyReference.cache
+C:\Users\xavie\Documents\ProgCode\Semester 2\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.SuggestedBindingRedirects.cache
+C:\Users\xavie\Documents\ProgCode\Semester 2\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\xavie\Documents\ProgCode\Semester 2\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\xavie\Documents\ProgCode\Semester 2\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\xavie\Documents\ProgCode\Semester 2\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\xavie\Documents\ProgCode\Semester 2\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\xavie\Documents\ProgCode\Semester 2\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
