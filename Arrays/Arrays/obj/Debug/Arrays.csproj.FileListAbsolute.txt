@@ -1,0 +1,8 @@
+C:\Users\xavie\Documents\ProgCode\Semester 2\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\xavie\Documents\ProgCode\Semester 2\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\xavie\Documents\ProgCode\Semester 2\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\xavie\Documents\ProgCode\Semester 2\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\xavie\Documents\ProgCode\Semester 2\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\xavie\Documents\ProgCode\Semester 2\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\xavie\Documents\ProgCode\Semester 2\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\xavie\Documents\ProgCode\Semester 2\Arrays\Arrays\obj\Debug\Arrays.pdb
